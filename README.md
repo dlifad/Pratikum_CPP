@@ -1,1 +1,1 @@
-Beberapa project yang saya buat menggunakan bahasa c++
+Tugas pratikum algoritma dan pemrograman dengan menggunakan bahasa C++
